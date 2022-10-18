@@ -8,6 +8,7 @@
     max-height: auto;
   }
 }
+
 h1 {
   font-family: "Sedgwick Ave Display", cursive;
   font-size: 52px;
@@ -28,7 +29,7 @@ h3 {
 
 h5 {
   font-family: "Sedgwick Ave Display", cursive;
-  font-size: 24px;
+  font-size: 28px !important;
   text-align: center;
 }
 
