@@ -1,0 +1,109 @@
+h1 {
+  font-family: "Sedgwick Ave Display", cursive;
+  font-size: 52px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 60px;
+}
+
+h3 {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+h5 {
+  font-family: "Sedgwick Ave Display", cursive;
+  font-size: 24px;
+  text-align: center;
+}
+
+.myphoto {
+  border-radius: 15px;
+  display: block;
+  margin: 0 auto;
+}
+
+.navigation-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+.navigation-links a {
+  font-size: 28px;
+  color: #025f97;
+  text-decoration: none;
+}
+
+.fa-linkedin {
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+.fa-instagram {
+  font-size: 28px;
+  color: #025f97;
+  text-decoration: none;
+}
+
+.fa-envelope {
+  font-size: 28px;
+  color: #025f97;
+  text-decoration: none;
+}
+
+h4 {
+  text-align: center;
+}
+.feelfreetocontact {
+  font-size: 18px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.learn-more {
+  font-size: 18px !important;
+  font-family: "Sedgwick Ave Display", cursive;
+  color: black !important;
+  border: 2px dotted !important;
+  border-radius: 6px !important;
+  border-color: gray !important;
+  padding: 14px 28px;
+}
+
+.learn-more:hover {
+  text-decoration: underline wavy;
+  cursor: pointer;
+}
+
+.coding-cat {
+  width: 260px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.about-info {
+  text-align: center;
+}
+
+.go-to-projects {
+  font-weight: bold;
+  color: #025f97;
+}
+
+.go-to-projects:hover {
+  text-decoration: underline wavy;
+  cursor: pointer;
+}
+
+footer {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
