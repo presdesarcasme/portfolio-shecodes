@@ -1,3 +1,7 @@
+:root {
+  --primary-color: #025f97;
+}
+
 @media only screen and (max-width: 600px) {
   .introduction {
     font-size: 16px;
@@ -35,7 +39,7 @@ h5 {
 
 .shecodes-link {
   text-decoration: underline;
-  color: #025f97;
+  color: var(--primary-color);
   font-weight: bold;
 }
 
@@ -60,7 +64,7 @@ h5 {
 }
 .navigation-links a {
   font-size: 28px;
-  color: #025f97;
+  color: var(--primary-color);
   text-decoration: none;
 }
 
@@ -71,13 +75,13 @@ h5 {
 
 .fa-instagram {
   font-size: 28px;
-  color: #025f97;
+  color: var(--primary-color);
   text-decoration: none;
 }
 
 .fa-envelope {
   font-size: 28px;
-  color: #025f97;
+  color: var(--primary-color);
   text-decoration: none;
 }
 
@@ -118,7 +122,7 @@ p {
 
 .go-to-projects {
   font-weight: bold;
-  color: #025f97;
+  color: var(--primary-color);
 }
 
 .go-to-projects:hover {
