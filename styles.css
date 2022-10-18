@@ -1,3 +1,12 @@
+@media only screen and (max-width: 600px) {
+  .introduction {
+    font-size: 16px;
+  }
+
+  .myphoto {
+    max-width: 400px;
+  }
+}
 h1 {
   font-family: "Sedgwick Ave Display", cursive;
   font-size: 52px;
