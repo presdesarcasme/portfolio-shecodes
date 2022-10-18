@@ -32,10 +32,24 @@ h5 {
   text-align: center;
 }
 
+.shecodes-link {
+  text-decoration: underline;
+  color: #025f97;
+  font-weight: bold;
+}
+
+.shecodes-link:hover {
+  cursor: pointer;
+  text-decoration: underline wavy;
+}
 .myphoto {
   border-radius: 15px;
   display: block;
   margin: 0 auto;
+}
+
+.skills {
+  text-align: center;
 }
 
 .navigation-links {
@@ -97,7 +111,7 @@ h4 {
   margin: 0 auto;
 }
 
-.about-info {
+p {
   text-align: center;
 }
 
