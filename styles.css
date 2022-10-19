@@ -58,9 +58,9 @@ h5 {
 }
 
 .navigation-links {
-  display: flex !important;
-  justify-content: center !important;
-  margin-top: 15px !important;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
 }
 .navigation-links a {
   font-size: 28px;
@@ -83,6 +83,7 @@ h5 {
   font-size: 28px;
   color: var(--primary-color);
   text-decoration: none;
+  margin-right: 45px;
 }
 
 .fa-github {
