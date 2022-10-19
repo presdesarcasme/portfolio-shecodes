@@ -58,8 +58,8 @@ h5 {
 }
 
 .navigation-links {
-  display: flex;
-  justify-content: center;
+  display: flex !important;
+  justify-content: center !important;
   margin-top: 15px !important;
 }
 .navigation-links a {
