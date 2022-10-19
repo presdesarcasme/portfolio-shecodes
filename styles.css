@@ -60,7 +60,7 @@ h5 {
 .navigation-links {
   display: flex;
   justify-content: center;
-  margin-top: 15px;
+  margin-top: 15px !important;
 }
 .navigation-links a {
   font-size: 28px;
@@ -80,6 +80,12 @@ h5 {
 }
 
 .fa-envelope {
+  font-size: 28px;
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.fa-github {
   font-size: 28px;
   color: var(--primary-color);
   text-decoration: none;
